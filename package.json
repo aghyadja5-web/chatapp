@@ -1,0 +1,12 @@
+{
+  "name": "chatapp-v9-online",
+  "version": "9.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}
